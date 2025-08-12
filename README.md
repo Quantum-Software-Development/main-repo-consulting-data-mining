@@ -51,7 +51,7 @@ Professor:  [Daniel Rodrigues da Silva]()
 <br>
 
 
-This course introduces **data mining techniques** with a focus on **unsupervised learning methods**, including:
+This course introduces [**data mining techniques**]() with a focus on [**unsupervised learning methods**](), including:
 
 - Clustering algorithms (K-Means, Affinity Propagation, Mean-Shift)
 - Principal Component Analysis (PCA)
@@ -61,7 +61,12 @@ This course introduces **data mining techniques** with a focus on **unsupervised
 Students will work on [**practical projects**]() inspired by real-world problem-solving in third-sector organizations. Final deliverables will be shared in **open repositories** and made available to the broader community, schools, libraries, and non-profits.
 
 
+<br><br>
 
+
+## [Objectives](0
+
+Enable students to **plan, conduct, and complete a research project** applying key **data mining concepts, algorithms, and methodologies**.
 
 
 
