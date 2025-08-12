@@ -64,16 +64,28 @@ Students will work on [**practical projects**]() inspired by real-world problem-
 <br><br>
 
 
-## [Objectives](0
+## [Objectives]()
 
 Enable students to **plan, conduct, and complete a research project** applying key **data mining concepts, algorithms, and methodologies**.
 
+<br><br>
 
 
+## [Syllabus]()
+
+<br>
+
+- Fundamentals of Data Mining
+- Data cleaning and preparation
+- Predictive analysis
+- Clustering methods (K-Means, Affinity Propagation, Mean-Shift)
+- Principal Component Analysis (PCA)
+- Dictionary Learning
+- Novelty and outlier detection
+- Application of concepts to real-world consulting scenarios
 
 
-
-
+<br><br>
 
 
 
