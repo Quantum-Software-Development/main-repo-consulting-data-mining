@@ -1,2 +1,19 @@
-# specialized-consulting-data-mining
-data mining, focusing on unsupervised learning methods (clustering, PCA, dictionary learning, anomaly detection) applied to real-world projects for third-sector organizations. Results are shared publicly in open repositories and community platforms.
+
+
+<br>
+
+
+# Specialized Consulting for Integrated Project: Data Mining
+
+
+<br><br>
+
+
+<br><br>
+
+
+**Institution:** Pontifical Catholic University of São Paulo (PUC-SP)  
+**School:** Faculty of Interdisciplinary Studies  
+**Program:** Humanistic AI and Data Science
+**Semester:** 2nd Semester 2025  
+**Instructor:** Prof. Daniel Rodrigues da Silva  
