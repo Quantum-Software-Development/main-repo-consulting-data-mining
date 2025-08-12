@@ -194,6 +194,28 @@ jupyter notebook
 <br>
 
 
+5. **Open course notebooks** and start practicing.
+
+
+
+<br><br>
+
+
+##  [Assessment]()
+
+<br>
+
+
+| Exam | Date | Format | Weight |
+|------|------|--------|--------|
+| **P1** | 01/10/2025 | Written – Individual | Arithmetic mean |
+| **P2** | 19/11/2025 | Written – Individual | Arithmetic mean |
+| **P3** | Substitution exam | Written – Individual | Replaces lowest score |
+
+<br>
+
+[**Final Grade:**]() Arithmetic mean of assessments.
+
 
 
 
