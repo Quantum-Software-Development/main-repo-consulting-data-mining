@@ -88,6 +88,45 @@ Enable students to **plan, conduct, and complete a research project** applying k
 <br><br>
 
 
+##  [Weekly Schedule]()
+
+<br>
+
+| [Week]() | [Topic]() | [Methodology]() | [Tools]() |
+|------|-------|-------------|-------|
+| 1 | Course introduction | Active methodology | – |
+| 2–3 | Review of statistical methods | Active methodology | Python |
+| 4 | Fundamentals of Data Mining | Active methodology | Python |
+| 5–6 | Data cleaning and preparation | Active methodology | Python |
+| 7 | Predictive analysis | Active methodology | Python |
+| 8, 10 | Clustering techniques | Active methodology | Python |
+| 9 | **P1 Exam** | Written (Individual) | – |
+| 11 | K-Means algorithm | Active methodology | Python |
+| 12 | Affinity Propagation | Active methodology | Python |
+| 13 | Mean-Shift algorithm | Active methodology | Python |
+| 14 | Principal Component Analysis (PCA) | Active methodology | Python |
+| 15 | Dictionary Learning | Active methodology | Python |
+| 16 | **P2 Exam** | Written (Individual) | – |
+| 17 | **P3 Exam & Grade Closure** | Written (Individual) | – |
+| 18 | Final grade submission | – | – |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
