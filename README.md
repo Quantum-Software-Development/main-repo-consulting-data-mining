@@ -22,9 +22,25 @@ Professor:  [Daniel Rodrigues da Silva]()
 
 
 
+<br><br>
 
 
+## 📑 Table of Contents
 
+<br>
+
+
+1. [Course Overview](#course-overview)
+2. [Objectives](#objectives)
+3. [Syllabus](#syllabus)
+4. [Weekly Schedule](#weekly-schedule)
+5. [Tools and Technologies](#tools-and-technologies)
+6. [Installation and Setup](#installation-and-setup)
+7. [Assessment](#assessment)
+8. [Bibliography](#bibliography)
+   - [Basic Bibliography](#basic-bibliography)
+   - [Complementary Bibliography](#complementary-bibliography)
+9. [Notes](#notes)
 
 
 
