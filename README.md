@@ -111,17 +111,87 @@ Enable students to **plan, conduct, and complete a research project** applying k
 | 18 | Final grade submission | – | – |
 
 
+<br><br>
+
+
+##  [Tools and Technologies]()
+
+<br>
+
+- **Programming Language:** Python  
+- **Libraries:** NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn  
+- **Environment:** Jupyter Notebook or other Python IDEs
 
 
 
+<br><br>
 
 
 
+##  Installation and Setup
+
+<br>
+
+Follow these steps to set up your local environment for the course projects:
+
+<br>
+
+1. **Clone the repository**
 
 
+```
+git clone https://github.com/<username>/<repository-name>.git
+cd <repository-name>
+```
 
 
+<br>
 
+
+2. **Create a virtual environment** (recommended)
+
+
+```
+python -m venv venv
+source venv/bin/activate   \# Mac/Linux
+venv\Scripts\activate      \# Windows
+```
+
+
+<br>
+
+
+3. **Install dependencies**
+Make sure `pip` is updated:
+```
+
+pip install --upgrade pip
+
+```
+Then install the required packages:
+```
+
+pip install -r requirements.txt
+
+```
+*(If `requirements.txt` is not provided, install manually:)*  
+```
+
+pip install numpy pandas scikit-learn matplotlib seaborn jupyter
+```
+
+
+<br>
+
+
+4. **Run Jupyter Notebook**
+   
+```
+jupyter notebook
+```
+
+
+<br>
 
 
 
