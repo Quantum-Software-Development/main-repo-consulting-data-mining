@@ -25,7 +25,7 @@ Professor:  [Daniel Rodrigues da Silva]()
 <br><br>
 
 
-## 📑 Table of Contents
+## Table of Contents
 
 <br>
 
@@ -43,7 +43,22 @@ Professor:  [Daniel Rodrigues da Silva]()
 9. [Notes](#notes)
 
 
+<br><br>
 
+
+##  [Course Overview]()
+
+<br>
+
+
+This course introduces **data mining techniques** with a focus on **unsupervised learning methods**, including:
+
+- Clustering algorithms (K-Means, Affinity Propagation, Mean-Shift)
+- Principal Component Analysis (PCA)
+- Dictionary Learning
+- Novelty and outlier detection
+
+Students will work on [**practical projects**]() inspired by real-world problem-solving in third-sector organizations. Final deliverables will be shared in **open repositories** and made available to the broader community, schools, libraries, and non-profits.
 
 
 
