@@ -246,7 +246,31 @@ jupyter notebook
 
 
 
+
+##  [Bibliography]()
+
 <br>
+
+### [Basic Bibliography]()
+
+- CASTRO, L. N. *Introdução a mineração de dados: conceitos básicos, algoritmos e aplicações*. Saraiva, 2016.  
+- PIRIM, H. *Recent Applications in Data Clustering*. IntechOpen, 2018.  
+- SEN, J. *Machine Learning: Artificial Intelligence*. IntechOpen, 2021.
+
+<br>
+
+### [Complementary Bibliography]()
+
+- THOMAS, C. *Data Mining*. IntechOpen, 2018.  
+- HUTTER, F.; KOTTHOFF, L.; VANSCHOREN, J. *Automated Machine Learning: Methods, Systems, Challenges*. Springer Nature, 2019.  
+- NETTO, A.; MACIEL, F. *Python para Data Science e Machine Learning Descomplicado*. Alta Books, 2021.  
+- RUSSELL, S. J.; NORVIG, P. *Artificial Intelligence: A Modern Approach*. GEN LTC, 2022.  
+- SUD, K.; ERDOGMUS, P.; KADRY, S. *Introduction to Data Science and Machine Learning*. IntechOpen, 2020.
+
+
+
+
+<br><br>
 
 
 ## 💌 [Let the data flow... Ping Me !](mailto:fabicampanari@proton.me)
