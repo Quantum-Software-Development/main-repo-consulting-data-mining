@@ -109,7 +109,7 @@ Enable students to **plan, conduct, and complete a research project** applying k
 | [Week]() | [Topic]() | [Methodology]() | [Tools]() |
 |------|-------|-------------|-------|
 | 1    | [Course introduction](https://github.com/Quantum-Software-Development/specialized-consulting-data-mining/tree/d737ff164c6b4d6e580d5ba6e95c54ac604f7ea4/class_1-Introduction) | Active methodology | – |
-| 2–3 | [Review of statistical methods](https://github.com/Quantum-Software-Development/specialized-consulting-data-mining/tree/5924894bdfc8f74beb5f44f6f5c44262213e6766/class_2%20and%203-%20Introduction%20-%20Data%20Mining%20With%20Python) | Active methodology | Python |
+| 2–3 | [Review of statistical methods](https://github.com/Quantum-Software-Development/class_2-and-3-intro-data-mining-python) | Active methodology | Python |
 | 4 | Fundamentals of Data Mining | Active methodology | Python |
 | 5–6 | Data cleaning and preparation | Active methodology | Python |
 | 7 | Predictive analysis | Active methodology | Python |
