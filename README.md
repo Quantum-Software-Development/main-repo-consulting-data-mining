@@ -344,7 +344,7 @@ $$
 
 <br>
 
-#### [Mean]() ($\bar{x}$) is calculated by:
+### [Mean](): ($\bar{x}$) is calculated by:
 
 <br>
 
@@ -355,7 +355,7 @@ $$
 
 <br>
 
-#### [Where]() $f_i$ = frequency, $x_i$ = midpoint.
+### [Where](): $f_i$ = frequency, $x_i$ = [Midpoint]().
 
 
 <br>
