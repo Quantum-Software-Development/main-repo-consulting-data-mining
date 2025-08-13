@@ -589,6 +589,12 @@ plt.show()
 
 <br>
 
+### [Summary]()
+
+Dummy Year: 2022 was used when year column was missing.
+
+Visualizations: Histograms, bar plots, and time series chart.
+
 
 
 
