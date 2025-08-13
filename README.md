@@ -13,6 +13,11 @@
 
 <br><br>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0d6324da-9468-455e-b8d1-2cce8bb63b06" />
+
+<br><br>
+
 
 [**Institution:**]() Pontifical Catholic University of São Paulo (PUC-SP)  
 [**School:**]() Faculty of Interdisciplinary Studies  
