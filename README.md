@@ -394,11 +394,14 @@ $$
 
 <br>
 
-### Step 7: Histogram
+### [Step 7](): Histogram
 
+<br>
 
+- Construct a histogram with class intervals on the x-axis and frequencies on the y-axis.
+- Each bar height corresponds to the frequency of the class.
 
-
+<br>
 
 
 
