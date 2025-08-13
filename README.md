@@ -316,6 +316,35 @@ $$
 
 <br>
 
+### [Step 5](): Calculate Midpoints for Each Class
+
+<br>
+
+$$
+\Huge
+x_i = \frac{\text{Lower limit} + \text{Upper limit}}{2}
+$$
+
+<br>
+
+| Class Interval | Midpoint ($x_i$) |
+| :-- | :-- |
+| 2 - 16 | 9 |
+| 17 - 31 | 24 |
+| 32 - 46 | 39 |
+| 47 - 61 | 54 |
+| 62 - 76 | 69 |
+| 77 - 91 | 84 |
+| 92 - 106 | 99 |
+| 107 - 121 | 114 |
+
+<br>
+
+
+
+
+
+
 
 
 
