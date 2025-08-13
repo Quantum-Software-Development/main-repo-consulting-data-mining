@@ -492,7 +492,7 @@ plt.show()
 
 <br>
 
-
+<img width="1307" height="386" alt="Image" src="https://github.com/user-attachments/assets/48b994b0-6bf8-425d-8bc8-ecd7395c45c5" />
 
 <br>
 
@@ -521,7 +521,7 @@ plt.show()
 
 <br>
 
-
+<img width="842" height="540" alt="Image" src="https://github.com/user-attachments/assets/6c28b3bf-1940-44e7-a4b3-80c03a736919" />
 
 <br>
 
@@ -585,7 +585,7 @@ plt.show()
 
 <br>
 
-
+<img width="1307" height="540" alt="Image" src="https://github.com/user-attachments/assets/319298c8-04a3-4335-80e1-4b0c92fde027" />
 
 <br>
 
