@@ -18,7 +18,8 @@
 [**School:**]() Faculty of Interdisciplinary Studies  
 [**Program:**]() Humanistic AI and Data Science
 [**Semester:**]() 2nd Semester 2025  
-Professor:  [Daniel Rodrigues da Silva]()  
+Professor:  [***Professor Doctor in Mathematics Daniel Rodrigues da Silva***](https://www.linkedin.com/in/daniel-rodrigues-048654a5/)
+
 
 <br><br>
 
