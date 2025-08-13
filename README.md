@@ -284,8 +284,37 @@ $$
 
 <br>
 
+### [Step 3](): Construct Class Intervals (from minimum value)
 
+| Class Interval | Explanation |
+| :-- | :-- |
+| 2 - 16 | Starts from minimum 2 |
+| 17 - 31 | 16 + 1 to 31 |
+| 32 - 46 | Next range |
+| 47 - 61 | Next range |
+| 62 - 76 | Next range |
+| 77 - 91 | Next range |
+| 92 - 106 | Next range |
+| 107 - 121 | Covers maximum 120 |
 
+<br>
+
+### [Step 4](): Frequency Distribution Table
+
+<br>
+
+| Class Interval | Frequency |
+| :--: | :--: |
+| 2 - 16 | 5 |
+| 17 - 31 | 14 |
+| 32 - 46 | 8 |
+| 47 - 61 | 13 |
+| 62 - 76 | 5 |
+| 77 - 91 | 8 |
+| 92 - 106 | 6 |
+| 107 - 121 | 5 |
+
+<br>
 
 
 
