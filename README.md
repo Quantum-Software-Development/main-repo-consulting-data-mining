@@ -44,9 +44,9 @@ Professor:  [Daniel Rodrigues da Silva]()
 
 
 1. [Course Overview](#course-overview)
-   - [I - class 1 - Intoductioon and Assessment]()
+   - I - [class 1 - Intoductioon and Assessment]()
    - II - [class_2 - Introduction - Data Mining With Python]()
-   - [III - class_3 - Stats Review]()
+   - III - [class_3 - Stats Review]()
 2. [Objectives](#objectives)
 3. [Syllabus](#syllabus)
 4. [Weekly Schedule](#weekly-schedule)
@@ -217,7 +217,7 @@ jupyter notebook
 <br><br>
 
 
-#  [I - Intoductioon and Assessment]()
+#  I - [Intoductioon and Assessment]()
 
 <br>
 
@@ -605,7 +605,7 @@ Visualizations: Histograms, bar plots, and time series chart.
 <br><br>
 
 
-# [III - class_3 - Stats Review]()
+# III - [class_3 - Stats Review]()
 
 
 
