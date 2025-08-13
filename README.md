@@ -44,9 +44,9 @@ Professor:  [Daniel Rodrigues da Silva]()
 
 
 1. [Course Overview](#course-overview)
-   - I - [class 1 - Intoductioon and Assessment]()
-   - II - [class_2 - Introduction - Data Mining With Python]()
-   - III - [class_3 - Stats Review]()
+   - I - [class 1 - Intoductioon and Assessment](https://github.com/Quantum-Software-Development/specialized-consulting-data-mining/tree/a98512aa9dc2525446a3ffb236d06cbfb16d1f43/class_1-Introduction)
+   - II - [class_2 - Introduction - Data Mining With Python](https://github.com/Quantum-Software-Development/specialized-consulting-data-mining/tree/a98512aa9dc2525446a3ffb236d06cbfb16d1f43/class_2%20-%20Introduction%20-%20Data%20Mining%20With%20Python)
+   - III - [class_3 - Stats Review](https://github.com/Quantum-Software-Development/specialized-consulting-data-mining/tree/a98512aa9dc2525446a3ffb236d06cbfb16d1f43/class_3%20-%20Stats%20Review)
 2. [Objectives](#objectives)
 3. [Syllabus](#syllabus)
 4. [Weekly Schedule](#weekly-schedule)
