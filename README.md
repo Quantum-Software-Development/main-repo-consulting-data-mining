@@ -217,7 +217,7 @@ jupyter notebook
 <br><br>
 
 
-#  I - [Intoductioon and Assessment]()
+#  I - [Intoductioon and Assessment](https://github.com/Quantum-Software-Development/specialized-consulting-data-mining/tree/86d9d9fbc56efdd0b8e377955c1c7abf8879b775/class_1-Introduction)
 
 <br>
 
@@ -235,7 +235,7 @@ jupyter notebook
 
 <br><br>
 
-# II - [class_2- Introduction - Data Mining With Python]()
+# II - [class_2- Introduction - Data Mining With Python](https://github.com/Quantum-Software-Development/specialized-consulting-data-mining/tree/86d9d9fbc56efdd0b8e377955c1c7abf8879b775/class_2%20-%20Introduction%20-%20Data%20Mining%20With%20Python)
 
 <br>
 
@@ -605,7 +605,7 @@ Visualizations: Histograms, bar plots, and time series chart.
 <br><br>
 
 
-# III - [class_3 - Stats Review]()
+# III - [class_3 - Stats Review](https://github.com/Quantum-Software-Development/specialized-consulting-data-mining/tree/86d9d9fbc56efdd0b8e377955c1c7abf8879b775/class_3%20-%20Stats%20Review)
 
 
 
