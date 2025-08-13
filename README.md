@@ -243,8 +243,25 @@ jupyter notebook
 
 <br>
 
+## [Example 1]()
+
+<br>
 
 
+The following sample lists the number of minutes that 60 cable TV users watched content from their package in the last two hours. Construct a frequency distribution with 8 classes and build a histogram.
+
+<br>
+
+
+[Data]():
+
+```
+20, 55, 5, 64, 78, 49, 91, 87, 18, 83, 33, 39, 30, 31, 59, 85, 102, 24, 27, 28,
+92, 108, 98, 67, 85, 109, 48, 19, 32, 69, 24, 59, 6, 49, 116, 37, 92, 43, 101, 60,
+55, 107, 25, 33, 57, 25, 17, 49, 24, 101, 14, 45, 73, 120, 91, 2, 11, 47, 21, 38
+```
+
+<br><br>
 
 
 
