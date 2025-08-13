@@ -230,6 +230,29 @@ jupyter notebook
 [**Final Grade:**]() Arithmetic mean of assessments.
 
 
+<br><br>
+
+# I - [class_1- Introduction - Data Mining With Python]()
+
+<br>
+
+☞ [Access Booklet]()
+
+☞ [Access Dataset]()
+
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
 
 
 
