@@ -275,14 +275,14 @@ The following sample lists the number of minutes that 60 cable TV users watched 
 ### [Step 2](): Calculate Class Width
 
 
-<br>
+<br><br>
 
 $$
 \huge
 w = \left\lceil \frac{\text{max} - \text{min}}{k} \right\rceil = \left\lceil \frac{120 - 2}{8} \right\rceil = 15
 $$
 
-<br>
+<br><br>
 
 ### [Step 3](): Construct Class Intervals (from minimum value)
 
@@ -318,14 +318,14 @@ $$
 
 ### [Step 5](): Calculate Midpoints for Each Class
 
-<br>
+<br><br>
 
 $$
 \Huge
 x_i = \frac{\text{Lower limit} + \text{Upper limit}}{2}
 $$
 
-<br>
+<br><br>
 
 | Class Interval | Midpoint ($x_i$) |
 | :-- | :-- |
@@ -346,14 +346,14 @@ $$
 
 ### [Mean](): ($\bar{x}$) is calculated by:
 
-<br>
+<br><br>
 
 $$
 \Huge
 \bar{x} = \frac{\sum f_i x_i}{\sum f_i}
 $$
 
-<br>
+<br><br>
 
 ### [Where](): $f_i$ = frequency, $x_i$ = [Midpoint]().
 
