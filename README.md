@@ -526,6 +526,40 @@ plt.show()
 <br>
 
 
+<br>
+
+###  [6](). Time Series Preparation
+
+
+```python
+# Inspect available columns
+print(df.columns)
+
+# Create a new DataFrame for time series analysis
+df_time_series = df[['day', 'month']].copy()
+
+# Add dummy year (if year column is missing)
+df_time_series['year'] = 2022
+
+# Convert to strings for concatenation
+df_time_series['day'] = df_time_series['day'].astype(str)
+df_time_series['year'] = df_time_series['year'].astype(str)
+
+# Create "date" column in dd-MMM-yyyy format
+df_time_series['date'] = df_time_series['day'] + '-' + df_time_series['month'] + '-' + df_time_series['year']
+df_time_series['date'] = pd.to_datetime(df_time_series['date'], format='%d-%b-%Y')
+
+# Set "date" as index
+df_time_series = df_time_series.set_index('date')
+
+# Count occurrences per day
+daily_counts = df_time_series.groupby(df_time_series.index).size()
+
+# Display first rows
+display(daily_counts.head())
+```
+
+
 
 
 
