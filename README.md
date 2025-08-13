@@ -149,7 +149,7 @@ Follow these steps to set up your local environment for the course projects:
 
 <br>
 
-1. **Clone the repository**
+[1](). **Clone the repository**
 
 
 ```
@@ -161,7 +161,7 @@ cd <repository-name>
 <br>
 
 
-2. **Create a virtual environment** (recommended)
+[2](). **Create a virtual environment** (recommended)
 
 
 ```
@@ -174,7 +174,7 @@ venv\Scripts\activate      \# Windows
 <br>
 
 
-3. **Install dependencies**
+[3](). **Install dependencies**
 Make sure `pip` is updated:
 ```
 
@@ -197,7 +197,7 @@ pip install numpy pandas scikit-learn matplotlib seaborn jupyter
 <br>
 
 
-4. **Run Jupyter Notebook**
+[4](). **Run Jupyter Notebook**
    
 ```
 jupyter notebook
@@ -207,7 +207,7 @@ jupyter notebook
 <br>
 
 
-5. **Open course notebooks** and start practicing.
+[5](). **Open course notebooks** and start practicing.
 
 
 
@@ -268,7 +268,9 @@ The following sample lists the number of minutes that 60 cable TV users watched 
 - Maximum value: 120
 - Number of classes ($k$): 8 (given)
 
-<br>
+
+<br><br>
+
 
 ### [Step 2](): Calculate Class Width
 
@@ -279,6 +281,7 @@ $$
 \huge
 w = \left\lceil \frac{\text{max} - \text{min}}{k} \right\rceil = \left\lceil \frac{120 - 2}{8} \right\rceil = 15
 $$
+
 
 <br><br>
 
@@ -312,11 +315,13 @@ $$
 | 92 - 106 | 6 |
 | 107 - 121 | 5 |
 
-<br>
+
+<br><br>
+
 
 ### [Step 5](): Calculate Midpoints for Each Class
 
-<br><br>
+<br>
 
 $$
 \Huge
@@ -336,7 +341,8 @@ $$
 | 92 - 106 | 99 |
 | 107 - 121 | 114 |
 
-<br>
+<br><br>
+
 
 ### [Step 6](): Calculate Mean Using Frequency and Midpoints
 
@@ -383,16 +389,21 @@ $$
 
 ### [Calculate mean]():
 
-<br>
+<br><br>
 
 $$
 \huge
 \bar{x} = \frac{3576}{64} = 55.875
 $$
 
-<br>
+<br><br>
+
 
 ### [Step 7](): Histogram, Bar Plot and Time Series Frequency Distribution Over Time
+
+- Construct a histogram, bar plot and  Time Series  with class intervals on the x-axis and frequencies on the y-axis.
+- Each bar height corresponds to the frequency of the class.
+
 
 <br>
 
@@ -405,10 +416,7 @@ $$
 
 <br>
 
-- Construct a histogram with class intervals on the x-axis and frequencies on the y-axis.
-- Each bar height corresponds to the frequency of the class.
 
-<br>
 
 
 
