@@ -467,7 +467,7 @@ display(df_freq)
 
 <br>
 
-###  [4]() 🌙 Histogram (Dark Theme)
+###  [4]().  Histogram (Dark Theme)
 
 ```python
 # Create figure and axes with dark background
@@ -490,10 +490,40 @@ plt.tick_params(axis='y', colors='white')
 plt.show()
 ```
 
+<br>
 
 
 
+<br>
 
+###  [5](). Bar Plot (Dark Theme)
+
+```python
+# Create figure and axes
+plt.style.use('seaborn-v0_8-darkgrid')
+fig, ax = plt.subplots(figsize=(10, 6))
+fig.patch.set_facecolor('black')
+ax.set_facecolor('black')
+
+# Bar plot of absolute frequency
+df_freq['Absolute Frequency'].plot(kind='bar', color="turquoise", ax=ax)
+
+# Customize labels and ticks
+plt.xlabel("Values")
+plt.ylabel("Frequency")
+plt.title("Frequency Distribution", color='white')
+plt.xticks(rotation=0, color='white')
+plt.yticks(color='white')
+
+# Show plot
+plt.show()
+```
+
+<br>
+
+
+
+<br>
 
 
 
