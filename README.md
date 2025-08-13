@@ -238,7 +238,7 @@ jupyter notebook
 
 ☞ [Access Booklet](https://github.com/Quantum-Software-Development/specialized-consulting-data-mining/blob/81e2951f73c87cf7c4396a36d48be92384b7b720/class_1-%20Introduction%20-%20Data%20Mining%20With%20Python/Book%20-%20Introd%20to%20Data%20Mining%20With%20Python.pdf)
 
-☞ [Access Dataset]()
+☞ [Access Dataset](https://github.com/Quantum-Software-Development/specialized-consulting-data-mining/blob/01b6e27e588c3b830561385f14bd0d246f55049d/class_1-%20Introduction%20-%20Data%20Mining%20With%20Python/Banks%20Dataset/banco.csv)
 
 
 <br>
