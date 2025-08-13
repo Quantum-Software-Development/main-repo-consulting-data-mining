@@ -44,7 +44,6 @@ Professor:  [Daniel Rodrigues da Silva]()
 
 
 1. [Course Overview](#course-overview)
-   - [Class 1: Introduction to Data Mining with Python and Stats Review](https://github.com/Quantum-Software-Development/intro-data-mining-python-class1)
 3. [Objectives](#objectives)
 4. [Syllabus](#syllabus)
 5. [Weekly Schedule](#weekly-schedule)
