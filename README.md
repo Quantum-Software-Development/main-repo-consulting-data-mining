@@ -264,7 +264,21 @@ The following sample lists the number of minutes that 60 cable TV users watched 
 <br><br>
 
 
+### [Step 1](): Determine Range and Number of Classes
 
+- Minimum value: 2
+- Maximum value: 120
+- Number of classes ($k$): 8 (given)
+
+<br>
+
+### [Step 2](): Calculate Class Width
+
+$$
+w = \left\lceil \frac{\text{max} - \text{min}}{k} \right\rceil = \left\lceil \frac{120 - 2}{8} \right\rceil = 15
+$$
+
+<br>
 
 
 
