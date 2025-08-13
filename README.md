@@ -465,6 +465,48 @@ df_freq = pd.DataFrame({
 display(df_freq)
 ```
 
+<br>
+
+###  [4]() 🌙 Histogram (Dark Theme)
+
+```python
+# Create figure and axes with dark background
+plt.style.use('seaborn-v0_8-darkgrid')
+fig, ax = plt.subplots(figsize=(16, 4))
+fig.patch.set_facecolor('black')
+ax.set_facecolor('black')
+
+# Plot histogram
+sns.histplot(df1, color='turquoise', ax=ax)
+
+# Customize labels and ticks
+plt.xlabel("Values")
+plt.ylabel("Frequency")
+plt.title("Frequency Distribution", color='white')
+plt.tick_params(axis='x', colors='white')
+plt.tick_params(axis='y', colors='white')
+
+# Show plot
+plt.show()
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
