@@ -360,7 +360,7 @@ $$
 
 <br>
 
-[Calculate each product]():
+### [Calculate each product]():
 
 <br>
 
@@ -379,11 +379,11 @@ $$
 
 ### [Sum frequencies](): $5 + 14 + 8 + 13 + 5 + 8 + 6 + 5 = 64$
 
-### {Sum of products](): $45 + 336 + 312 + 702 + 345 + 672 + 594 + 570 = 3576$
+### [Sum of products](): $45 + 336 + 312 + 702 + 345 + 672 + 594 + 570 = 3576$
 
 <br>
 
-[Calculate mean]():
+### [Calculate mean]():
 
 
 
