@@ -344,17 +344,18 @@ $$
 
 <br>
 
-Mean ($\bar{x}$) is calculated by:
+#### [Mean]() ($\bar{x}$) is calculated by:
 
 <br>
 
 $$
+\Huge
 \bar{x} = \frac{\sum f_i x_i}{\sum f_i}
 $$
 
 <br>
 
-[Where]() $f_i$ = frequency, $x_i$ = midpoint.
+#### [Where]() $f_i$ = frequency, $x_i$ = midpoint.
 
 
 <br>
