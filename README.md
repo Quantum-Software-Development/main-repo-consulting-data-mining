@@ -236,7 +236,7 @@ jupyter notebook
 
 <br>
 
-☞ [Access Booklet]()
+☞ [Access Booklet](https://github.com/Quantum-Software-Development/specialized-consulting-data-mining/blob/81e2951f73c87cf7c4396a36d48be92384b7b720/class_1-%20Introduction%20-%20Data%20Mining%20With%20Python/Book%20-%20Introd%20to%20Data%20Mining%20With%20Python.pdf)
 
 ☞ [Access Dataset]()
 
