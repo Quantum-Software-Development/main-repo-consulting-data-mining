@@ -340,6 +340,47 @@ $$
 
 <br>
 
+### [Step 6](): Calculate Mean Using Frequency and Midpoints
+
+<br>
+
+Mean ($\bar{x}$) is calculated by:
+
+<br>
+
+$$
+\bar{x} = \frac{\sum f_i x_i}{\sum f_i}
+$$
+
+<br>
+
+[Where]() $f_i$ = frequency, $x_i$ = midpoint.
+
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
