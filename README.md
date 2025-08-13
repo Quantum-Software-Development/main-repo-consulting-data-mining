@@ -526,8 +526,6 @@ plt.show()
 <br>
 
 
-<br>
-
 ###  [6](). Time Series Preparation
 
 
@@ -559,7 +557,37 @@ daily_counts = df_time_series.groupby(df_time_series.index).size()
 display(daily_counts.head())
 ```
 
+<br>
 
+###  [7](). Time Series Plot (Dark Theme)
+
+
+```python
+# Set plot style
+plt.style.use('seaborn-v0_8-darkgrid')
+fig, ax = plt.subplots(figsize=(16, 6))
+fig.patch.set_facecolor('black')
+ax.set_facecolor('black')
+
+# Plot time series
+plt.plot(daily_counts, color='turquoise')
+
+# Customize labels and ticks
+plt.title("Frequency Distribution Over Time", color='white')
+plt.xlabel("Date", color='white')
+plt.ylabel("Frequency", color='white')
+plt.tick_params(axis='x', colors='white')
+plt.tick_params(axis='y', colors='white')
+
+# Show plot
+plt.show()
+```
+
+<br>
+
+
+
+<br>
 
 
 
