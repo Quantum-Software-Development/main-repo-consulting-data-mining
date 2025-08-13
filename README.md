@@ -109,7 +109,7 @@ Enable students to **plan, conduct, and complete a research project** applying k
 | [Week]() | [Topic]() | [Methodology]() | [Tools]() |
 |------|-------|-------------|-------|
 | 1 | Course introduction | Active methodology | – |
-| 2–3 | Review of statistical methods | Active methodology | Python |
+| 2–3 | [Review of statistical methods](https://github.com/Quantum-Software-Development/intro-data-mining-python-class1) | Active methodology | Python |
 | 4 | Fundamentals of Data Mining | Active methodology | Python |
 | 5–6 | Data cleaning and preparation | Active methodology | Python |
 | 7 | Predictive analysis | Active methodology | Python |
