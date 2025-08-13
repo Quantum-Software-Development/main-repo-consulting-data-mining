@@ -274,7 +274,11 @@ The following sample lists the number of minutes that 60 cable TV users watched 
 
 ### [Step 2](): Calculate Class Width
 
+
+<br>
+
 $$
+\huge
 w = \left\lceil \frac{\text{max} - \text{min}}{k} \right\rceil = \left\lceil \frac{120 - 2}{8} \right\rceil = 15
 $$
 
