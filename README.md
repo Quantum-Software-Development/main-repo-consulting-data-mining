@@ -414,13 +414,56 @@ $$
 ☞ [Access Plots](https://github.com/Quantum-Software-Development/specialized-consulting-data-mining/tree/a61b0572e5bca4d6f06b0187722f8ef97214c0a4/class_1-%20Introduction%20-%20Data%20Mining%20With%20Python/Plots)
 
 
+<br><br>
+
+###[Frequency Analysis and Time Series Visualization]()
+
+This notebook demonstrates how to perform frequency analysis on a CSV dataset, visualize results with histograms and bar plots, and create a time series chart using Python.
+
 <br>
 
+###  [1](). Install and Import Libraries
+
+```python
+# Import required libraries
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+```
+
+<br>
+
+###  [2](). Load Dataset
+
+```python
+# Load CSV file (semicolon-separated)
+df = pd.read_csv('chose your dataset', sep=';')
+
+# Select only the "day" column
+df1 = df['day']
+```
+
+<br>
+
+###  [3](). Calculate Frequencies
 
 
+```python
+# Calculate absolute frequency (ascending order)
+freq_abs = pd.Series(df1).value_counts(ascending=True)
 
+# Calculate relative frequency (normalized, 3 decimal places)
+freq_rel = pd.Series(df1).value_counts(normalize=True).round(3)
 
+# Create a DataFrame with both measures
+df_freq = pd.DataFrame({
+    'Absolute Frequency': freq_abs,
+    'Relative Frequency': freq_rel
+})
 
+# Display the frequency table
+display(df_freq)
+```
 
 
 
