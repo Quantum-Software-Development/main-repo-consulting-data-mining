@@ -44,9 +44,9 @@ Professor:  [Daniel Rodrigues da Silva]()
 
 
 1. [Course Overview](#course-overview)
-   - [I - Introduction]()
-   - [II - ]()
-
+   - [I - class 1 - Intoductioon and Assessment]()
+   - II - [class_2 - Introduction - Data Mining With Python]()
+   - [III - [class_3 - Stats Review]()
 2. [Objectives](#objectives)
 3. [Syllabus](#syllabus)
 4. [Weekly Schedule](#weekly-schedule)
@@ -217,7 +217,7 @@ jupyter notebook
 <br><br>
 
 
-##  [Assessment]()
+#  [I - Intoductioon and Assessment]()
 
 <br>
 
@@ -235,7 +235,7 @@ jupyter notebook
 
 <br><br>
 
-# I - [class_1- Introduction - Data Mining With Python]()
+# II - [class_2- Introduction - Data Mining With Python]()
 
 <br>
 
@@ -602,7 +602,10 @@ Dummy Year: 2022 was used when year column was missing.
 Visualizations: Histograms, bar plots, and time series chart.
 
 
+<br><br>
 
+
+# [III - class_3 - Stats Review]()
 
 
 
