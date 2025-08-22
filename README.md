@@ -26,10 +26,15 @@
 Professor:  [***Professor Doctor in Mathematics Daniel Rodrigues da Silva***](https://www.linkedin.com/in/daniel-rodrigues-048654a5/)
 
 
+
+<!--Confidentiality statement -->
+
 <br><br>
 
+# 
 
-## ⚠️ [Important Notes]()
+
+### ⚠️ Heads Up
 
 
 - [Whenever possible](), projects and deliverables developed during the course will be made [publicly accessible]().
@@ -39,9 +44,16 @@ Professor:  [***Professor Doctor in Mathematics Daniel Rodrigues da Silva***](ht
 - All activities and materials will strictly adhere to the [**academic and ethical guidelines of PUC-SP**](). Any content not authorized for public disclosure will remain [**confidential**]() and stored in [private repositories]().
 
 
+# 
+
+<br><br><br>
 
 
-<br><br>
+<!--END-->
+
+
+
+
 
 
 ## Table of Contents
