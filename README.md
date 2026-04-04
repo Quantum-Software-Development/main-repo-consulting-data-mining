@@ -184,9 +184,9 @@ https://github.com/Quantum-Software-Development/7-DataMining-Regression-Techniqu
 | 14    | [DBSCAN and Spectral Clustering](https://github.com/Quantum-Software-Development/14-DataMining_DBSCAN_and_Spectral-Clustering) | Active methodology | Python |
 | 15    | [* Project 3 – Clustering Algorithms Exploration and Comparison- K-Means - Mean Shift - - Dbscan](https://github.com/Quantum-Software-Development/15-DataMining_Project_3_-Clustering_Comparison_KMeans_MeanShift_DBSCAN) | Active methodology | Python |
 | 16    | [ Dictionary-Based Feature Grouping for LLM/AI Pipelines](https://github.com/Quantum-Software-Development/16-DataMining_llm-tabular-preprocessing-dict-groups) | Active methodology | Python |
-| 17    | **P2 Exam** | Written (Individual) | – |
-| 18    | **P3 Exam & Grade Closure** | Written (Individual) | – |
-| 19     | Final grade submission | – | – |
+| 17    | [**P2 Exam**]() | Written (Individual) | – |
+| 18    | [**P3 Exam & Grade Closure**]() | Written (Individual) | – |
+| 19     | [Final grade submission]() | – | – |
 
 
 <br><br>
